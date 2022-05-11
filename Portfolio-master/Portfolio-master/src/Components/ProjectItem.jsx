@@ -11,7 +11,8 @@ const Cont = styled.div`
     }
 
     .main-img {
-        width: 90%;
+        width: 20rem;
+        height:15rem;
         border-radius: 3px;
         padding: 10px;
     }
@@ -20,7 +21,7 @@ const Cont = styled.div`
         padding: 0 15px;
         text-align: left;
         color: #3d3b3b;
-        height: 140px;
+        
     }
 
     .stack-imgs {
