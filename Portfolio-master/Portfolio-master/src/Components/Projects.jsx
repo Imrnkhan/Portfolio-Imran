@@ -32,7 +32,7 @@ export default function Projects() {
             desc: "Paytm is a platform where you can engage in financial transactions with other people, businesses, etc., shop for certain products, book flight tickets, hotels, movie tickets, train tickets, etc. It is an eCommerce payment system. Paytm Mall is an online consumer shopping platform launched by Paytm for its users.",
             demo: null,
             github: "https://paytmmall-clone.netlify.app/",
-            main: "/Paytm mall.webp",
+            main: "/Paytm.web.jpeg",
             stack: [
                 "/html.webp",
                 "css.webp",
@@ -48,7 +48,7 @@ export default function Projects() {
             desc: "The Home Depot, Inc., commonly known as Home Depot, is the largest home improvement retailer in the United States, supplying tools, construction products, appliances, and services.",
             demo: null,
             github: "https://the-home-depot.netlify.app/",
-            main: "/Home Depot.webp",
+            main: "/Home Depot.web.jpeg",
             stack: [
                 "/html.webp",
                 "css.webp",
